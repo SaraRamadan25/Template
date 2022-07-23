@@ -1,2 +1,2 @@
 # Template
-refernce of this template: Elzero
+reference of this template: Elzero
